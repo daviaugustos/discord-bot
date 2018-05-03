@@ -1,0 +1,5 @@
+# Ignore standard node files
+/node_modules
+
+# Ignore token file
+token.js
